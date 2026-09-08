@@ -30,8 +30,8 @@ class user:
         # بنابراین اگر کاربری اضافه نشده باشد این اضافه می شود و اگر اضافه شده بود دیگر این کاربر اضافه نمی ش.د 
             Name='Tina'
             last_name='Lee'
-            phone='09149838328'
-            password='2920775499'
+            phone='09149888328'
+            password='2920777777'
             userName='Tina'
             role=1
             query=(Name, last_name, phone, password, userName , role)
